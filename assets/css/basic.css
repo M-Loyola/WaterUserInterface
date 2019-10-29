@@ -1,0 +1,91 @@
+body{
+    background: url("water_boy.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.img_logo{
+    border: solid;
+    border-radius: 10em;
+    width: 15em;
+    height: 15em;
+    border-color:cadetblue;
+}
+.text_logo{
+    color:rgb(65, 70, 65);
+    font-size: 5em;
+    font-family: Ropa Sans;
+}
+.content{
+    background-color: white;
+    width: 100%;
+    padding: 1em;
+    position: fixed;
+}
+.content1{
+    background-color: white;
+    width: cover;
+    padding: 1em;
+}
+.content2{
+    background-color: powderblue;
+    width: cover;
+    padding: 1em;
+}
+.content3{
+    width:20%;
+    background-color: rgb(248, 246, 242);
+    color: cadetblue;
+    padding: 1em;
+    text-align: center;
+    font-family: Ropa Sans;
+}
+.content4{
+    width:20%;
+    background-color: cadetblue;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+    font-family: Ropa Sans;
+}
+.content5{
+    background-color: rgb(91, 119, 122);
+    width: cover;
+    padding: 1em;
+}
+.text{
+    color: rgb(46, 45, 45);
+    font-family: Ropa Sans;
+    font-size: 2em;
+}
+.td{
+    padding-left: 5em;
+    font-family: Ropa Sans;
+}
+a{
+    color: cadetblue;
+    text-decoration: none;
+    font-size: 2em;
+}
+a:hover {
+    color: black;
+}
+.sign{
+    padding-left: 35em;
+    position: fixed;
+}
+.img{
+    width: 1em;
+    height: 1em;
+}
+input{
+    padding: 1em;
+}
+button{
+    border: none;
+    background-color: white;
+    padding: .5em;
+}
+h1{
+    padding-left: 2em;
+}
+
